@@ -72,6 +72,7 @@ Options:
 ## Contributing
 Contributions to Sign2Text are welcome! Please follow the guidelines mentioned in the `CONTRIBUTING.md` file.
 ## License
-Sign2Text is licensed under the [LICENSE] (link to the license file).
-For more information or to report issues, please visit the repository: [REPO_URL] (link to the repository).
+
+Sign2Text is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for more information.
+
 Happy signing!
